@@ -1,1 +1,5 @@
-Eerste opzet voor het online zetten van een website. Met deze handleiding kan een leerling VO snel, eenvoudig & gratis (!) een website online zetten. Met GitHub Pages (❤️) is het mogelijk om statische websites online te zetten. Kijk ook eens naar [Jekyll](https://jekyllrb.com/) voor een nieuwe uitdaging. En [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) 
+# Snel aan de slag met Github Pages version 1.1a
+
+### [> Naar de handleiding <](http://piersoncollege.github.io/html/)
+
+![](http://i.imgur.com/aqeoWiJ.gif)
