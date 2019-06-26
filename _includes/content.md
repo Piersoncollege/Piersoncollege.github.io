@@ -5,16 +5,16 @@ Tijdens de lessen informatica maken we gebruik van GitHub. GitHub in een video v
 
 De eerste handleiding staat hieronder. Maak je eigen GitHub account. Doe dit met je **@Pierson account!**
 
-## Repository maken
+## GitHub account maken en eerste repo maken ##
 Je gaat je website-code hosten in een repository, zodat je makkelijk veranderingen kan aanbrengen en de geschiedenis van je programmeer-kunsten terug kan vinden.
 
 > :information_source:  **Repository** betekent letterlijk *bewaarplaats*.    
 > Op GitHub is dit een soort van folder waar alles van je project in te vinden is.
 
-[https://github.com/join](Aanmelden)... met je @Pierson account.
+[https://github.com/join]  met je @Pierson account.
 
 ## GitHub Pages, zet je website online ##
-[piersoncollege.github.io/html](Hier vind je de handleiding om je website online te zetten.) Succes!
+[piersoncollege.github.io/html] Succes!
 
 
 
