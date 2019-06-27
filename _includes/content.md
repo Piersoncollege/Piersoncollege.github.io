@@ -1,6 +1,7 @@
 
 ## Welkom op de GitHub van het ds. Pierson College
-Tijdens de lessen informatica maken we gebruik van GitHub. _''Wat is GitHub?''_ hoor ik je denken. GitHub leer je kennen in drie minuten met onderstaande video.
+Tijdens de lessen informatica maken we gebruik van GitHub. _''Wat is GitHub?''_ hoor ik je denken.
+GitHub leer je kennen in drie minuten met onderstaande video.
 
 [![Bekijk deze video.](https://img.youtube.com/vi/w3jLJU7DT5E/maxresdefault.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
