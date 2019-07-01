@@ -21,6 +21,9 @@ Je gaat je website-code hosten in een repository, zodat je makkelijk verandering
 ## GitHub Pages, zet je website online ##
 [Handleiding website op GitHub Pages](piersoncollege.github.io/html)
 
+## Aan de slag met Open Source
+[Handleiding Open Source](https://opensource.guide/). Altijd fijn om deze pagina even te bezoeken voordat je aan iets nieuws begint. Gebruik je iets Open Source? Deel dan je bevindingen en je code. Dank. 
+
 ### Succes! ###
 
 
